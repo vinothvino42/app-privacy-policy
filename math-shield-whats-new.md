@@ -1,4 +1,4 @@
-If you enjoy using [Math Shield](), I’d truly appreciate it if you could take a moment to rate the app and leave a kind review. Your support helps more people discover it! Tap [here]() to leave your review. Thank you 🙏, Vinoth
+If you enjoy using [Math Shield](https://apps.apple.com/us/app/math-shield/id6774190945), I’d truly appreciate it if you could take a moment to rate the app and leave a kind review. Your support helps more people discover it! Tap [here](https://apps.apple.com/us/app/math-shield/id6774190945) to leave your review. Thank you 🙏, Vinoth
 
 **Version 1.0.0**
 Take control of your screen time with a smarter way to stay focused.
