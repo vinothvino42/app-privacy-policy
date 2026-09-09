@@ -1,4 +1,5 @@
-What's New
-Welcome to Smashly! 🎉
+# What's New
+Welcome to **Smashly** 🎉
 
-Version 1.0.0
+### Version 1.0.0
+- Initial Release
